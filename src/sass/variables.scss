@@ -1,0 +1,24 @@
+// Color
+
+$dark : #222222;
+$light : #FAFAFA;
+$beige : #FAEBD7;
+$red : #BF0000;
+
+
+//Fonts
+@font-face {
+    font-family: 'Druk';
+    src: url('../assets/fonts/Druk_Wide_Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Circular';
+    src: url('../assets/fonts/CircularStd-Book.woff'),
+    url('../assets/fonts/CircularStd-Bold.woff')
+    format('woff');
+}
+
+
+$title : 'Druk';
+$text : 'Circular';
